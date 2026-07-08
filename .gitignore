@@ -1,0 +1,35 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+**/venv/
+**/.venv/
+
+# Environment files containing API keys/secrets
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+**/secrets.json
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+**/__pycache__/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db

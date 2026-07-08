@@ -1,0 +1,31 @@
+Date,Description,Category,Type,Amount
+2026-01-01,Salary Credit,Salary,Credit,85000
+2026-01-02,House Rent,Rent,Debit,18000
+2026-01-03,BigBasket,Groceries,Debit,2450
+2026-01-04,Swiggy,Food,Debit,780
+2026-01-05,Indian Oil,Fuel,Debit,2200
+2026-01-06,Netflix Subscription,Entertainment,Debit,649
+2026-01-07,Amazon Shopping,Shopping,Debit,4850
+2026-01-08,Electricity Bill,Utilities,Debit,3100
+2026-01-09,Internet Bill,Utilities,Debit,999
+2026-01-10,Restaurant Dinner,Food,Debit,1650
+2026-01-11,Uber,Transport,Debit,520
+2026-01-12,Medical Store,Healthcare,Debit,1150
+2026-01-13,Movie Tickets,Entertainment,Debit,950
+2026-01-14,ATM Withdrawal,Cash,Debit,5000
+2026-01-15,Gym Membership,Fitness,Debit,1800
+2026-01-16,Flipkart Shopping,Shopping,Debit,3250
+2026-01-17,Starbucks,Food,Debit,420
+2026-01-18,Mobile Recharge,Utilities,Debit,799
+2026-01-19,Petrol Pump,Fuel,Debit,1800
+2026-01-20,Zomato,Food,Debit,950
+2026-01-21,LIC Premium,Insurance,Debit,4200
+2026-01-22,Book Store,Education,Debit,1250
+2026-01-23,Train Ticket,Travel,Debit,2350
+2026-01-24,Hotel Booking,Travel,Debit,6500
+2026-01-25,Pharmacy,Healthcare,Debit,890
+2026-01-26,Amazon Electronics,Shopping,Debit,12999
+2026-01-27,Coffee Shop,Food,Debit,350
+2026-01-28,Water Bill,Utilities,Debit,650
+2026-01-29,Mutual Fund SIP,Investment,Debit,5000
+2026-01-30,Interest Credit,Interest,Credit,420
